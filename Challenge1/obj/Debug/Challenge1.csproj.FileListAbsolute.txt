@@ -1,0 +1,5 @@
+D:\Root\Challenges\Challenge1\bin\Debug\Challenge1.exe
+D:\Root\Challenges\Challenge1\bin\Debug\Challenge1.pdb
+D:\Root\Challenges\Challenge1\obj\Debug\Challenge1.csprojResolveAssemblyReference.cache
+D:\Root\Challenges\Challenge1\obj\Debug\Challenge1.exe
+D:\Root\Challenges\Challenge1\obj\Debug\Challenge1.pdb
